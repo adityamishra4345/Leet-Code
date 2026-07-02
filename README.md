@@ -47,6 +47,7 @@ LeetCode track Records.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityamishra4345/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
