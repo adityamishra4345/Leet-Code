@@ -5,6 +5,7 @@ LeetCode track Records.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityamishra4345/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ LeetCode track Records.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityamishra4345/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -166,4 +168,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityamishra4345/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adityamishra4345/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
