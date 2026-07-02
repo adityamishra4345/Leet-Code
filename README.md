@@ -47,6 +47,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityamishra4345/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0328-odd-even-linked-list) |
