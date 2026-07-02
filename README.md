@@ -11,7 +11,6 @@ LeetCode track Records.
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
-| [1480-running-sum-of-1d-array](https://github.com/adityamishra4345/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +42,7 @@ LeetCode track Records.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -51,6 +51,7 @@ LeetCode track Records.
 | [0024-swap-nodes-in-pairs](https://github.com/adityamishra4345/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0328-odd-even-linked-list) |
@@ -74,8 +75,16 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
-## Prefix Sum
+## Divide and Conquer
 |  |
 | ------- |
-| [1480-running-sum-of-1d-array](https://github.com/adityamishra4345/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
