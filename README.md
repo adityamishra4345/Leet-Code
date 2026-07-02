@@ -17,6 +17,7 @@ LeetCode track Records.
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode track Records.
 | [0392-is-subsequence](https://github.com/adityamishra4345/Leet-Code/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ LeetCode track Records.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +130,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/adityamishra4345/Leet-Code/tree/master/0392-is-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
