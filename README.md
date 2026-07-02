@@ -9,6 +9,7 @@ LeetCode track Records.
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
@@ -18,6 +19,7 @@ LeetCode track Records.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
 |  |
@@ -52,6 +54,7 @@ LeetCode track Records.
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -101,4 +104,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
