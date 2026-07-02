@@ -20,6 +20,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -38,9 +39,11 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -50,4 +53,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
