@@ -14,6 +14,7 @@ LeetCode track Records.
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ LeetCode track Records.
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
 |  |
 | ------- |
