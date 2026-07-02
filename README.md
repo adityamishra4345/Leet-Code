@@ -55,6 +55,7 @@ LeetCode track Records.
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +69,7 @@ LeetCode track Records.
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
