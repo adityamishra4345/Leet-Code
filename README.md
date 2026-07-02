@@ -46,6 +46,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/adityamishra4345/Leet-Code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
@@ -102,6 +103,7 @@ LeetCode track Records.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityamishra4345/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityamishra4345/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/adityamishra4345/Leet-Code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
