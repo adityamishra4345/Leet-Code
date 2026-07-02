@@ -22,6 +22,7 @@ LeetCode track Records.
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adityamishra4345/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
@@ -42,6 +43,7 @@ LeetCode track Records.
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adityamishra4345/Leet-Code/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -177,4 +179,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adityamishra4345/Leet-Code/tree/master/0278-first-bad-version) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/adityamishra4345/Leet-Code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
