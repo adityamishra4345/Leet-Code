@@ -36,6 +36,7 @@ LeetCode track Records.
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
