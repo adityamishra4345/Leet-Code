@@ -21,6 +21,7 @@ LeetCode track Records.
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
+| [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ LeetCode track Records.
 | [0009-palindrome-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ LeetCode track Records.
 | [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
+| [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +150,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
