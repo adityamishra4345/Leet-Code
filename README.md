@@ -5,6 +5,7 @@ LeetCode track Records.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
@@ -50,6 +51,7 @@ LeetCode track Records.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityamishra4345/Leet-Code/tree/master/0125-valid-palindrome) |
@@ -101,6 +103,7 @@ LeetCode track Records.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
