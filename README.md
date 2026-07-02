@@ -11,6 +11,7 @@ LeetCode track Records.
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamishra4345/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityamishra4345/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ LeetCode track Records.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
