@@ -7,6 +7,7 @@ LeetCode track Records.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
@@ -15,6 +16,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
 |  |
