@@ -10,6 +10,7 @@ LeetCode track Records.
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityamishra4345/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ LeetCode track Records.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityamishra4345/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
@@ -57,6 +59,7 @@ LeetCode track Records.
 | [0125-valid-palindrome](https://github.com/adityamishra4345/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityamishra4345/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/adityamishra4345/Leet-Code/tree/master/0392-is-subsequence) |
