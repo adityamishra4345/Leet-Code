@@ -5,6 +5,7 @@ LeetCode track Records.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -32,4 +33,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
