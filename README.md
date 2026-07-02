@@ -19,6 +19,7 @@ LeetCode track Records.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityamishra4345/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
@@ -34,6 +35,7 @@ LeetCode track Records.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityamishra4345/Leet-Code/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
