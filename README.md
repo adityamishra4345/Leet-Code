@@ -13,6 +13,7 @@ LeetCode track Records.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamishra4345/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityamishra4345/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -105,18 +106,21 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
 |  |
@@ -139,4 +143,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
