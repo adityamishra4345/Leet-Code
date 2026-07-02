@@ -11,6 +11,7 @@ LeetCode track Records.
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
+| [1480-running-sum-of-1d-array](https://github.com/adityamishra4345/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,8 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adityamishra4345/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
