@@ -11,6 +11,7 @@ LeetCode track Records.
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamishra4345/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamishra4345/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ LeetCode track Records.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
@@ -171,6 +173,7 @@ LeetCode track Records.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
