@@ -201,12 +201,14 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -216,6 +218,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Heap (Priority Queue)
@@ -229,5 +232,6 @@ LeetCode track Records.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
