@@ -54,6 +54,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ LeetCode track Records.
 | [0009-palindrome-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/adityamishra4345/Leet-Code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -71,6 +73,7 @@ LeetCode track Records.
 | [0125-valid-palindrome](https://github.com/adityamishra4345/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityamishra4345/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/adityamishra4345/Leet-Code/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
