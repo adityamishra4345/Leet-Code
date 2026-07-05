@@ -5,6 +5,7 @@ LeetCode track Records.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityamishra4345/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -123,6 +124,7 @@ LeetCode track Records.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityamishra4345/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityamishra4345/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/adityamishra4345/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
