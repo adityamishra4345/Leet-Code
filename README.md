@@ -22,6 +22,7 @@ LeetCode track Records.
 | [0169-majority-element](https://github.com/adityamishra4345/Leet-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0495-teemo-attacking](https://github.com/adityamishra4345/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adityamishra4345/Leet-Code/tree/master/0622-design-circular-queue) |
@@ -56,6 +57,7 @@ LeetCode track Records.
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/adityamishra4345/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
