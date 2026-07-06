@@ -4,19 +4,23 @@ public:
         int i=0;
         int ans=0;
         int sign=0;
-            while(i<s.size()&&s[i]==' '){
-                i++;    
+            
+            while(i<s.size()&&(s[i] < '0' || s[i] > '9')){
+                 if(s[i]>=65 &&s[i]<=122||s[i]=='.'){
+                   return 0;
             }
-            if(s[i]=='-'){
-                sign=1;
-                i++;
-            }
-            else if(s[i]=='+'){
-                sign=0;
-                i++;
-            }
-            while(i<s.size()&&(s[i]=='0')){
-                i++;
+                if(s[i]=='-'){
+                    sign=1;
+                    i++;
+                    break;
+                }
+                if(s[i]=='+'){
+                    sign=0;
+                    i++;
+                    break;
+                }
+               
+                i++;  
             }
             while(i<s.size()&&(s[i] >= '0' && s[i] <= '9')){
                 
