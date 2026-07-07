@@ -82,6 +82,7 @@ LeetCode track Records.
 | [0392-is-subsequence](https://github.com/adityamishra4345/Leet-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/adityamishra4345/Leet-Code/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ LeetCode track Records.
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adityamishra4345/Leet-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
+| [3146-permutation-difference-between-two-strings](https://github.com/adityamishra4345/Leet-Code/tree/master/3146-permutation-difference-between-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
