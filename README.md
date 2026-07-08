@@ -72,6 +72,7 @@ LeetCode track Records.
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityamishra4345/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityamishra4345/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ LeetCode track Records.
 | [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityamishra4345/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityamishra4345/Leet-Code/tree/master/3146-permutation-difference-between-two-strings) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityamishra4345/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ LeetCode track Records.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adityamishra4345/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityamishra4345/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
