@@ -13,6 +13,7 @@ LeetCode track Records.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityamishra4345/Leet-Code/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/adityamishra4345/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/adityamishra4345/Leet-Code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamishra4345/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityamishra4345/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamishra4345/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ LeetCode track Records.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityamishra4345/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -254,4 +256,8 @@ LeetCode track Records.
 | [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityamishra4345/Leet-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
