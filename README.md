@@ -50,6 +50,7 @@ LeetCode track Records.
 | [0020-valid-parentheses](https://github.com/adityamishra4345/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/adityamishra4345/Leet-Code/tree/master/0735-asteroid-collision) |
@@ -222,6 +223,7 @@ LeetCode track Records.
 | [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -229,6 +231,7 @@ LeetCode track Records.
 | [0094-binary-tree-inorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -241,6 +244,7 @@ LeetCode track Records.
 | [0100-same-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityamishra4345/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityamishra4345/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
