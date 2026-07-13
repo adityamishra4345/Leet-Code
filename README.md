@@ -70,6 +70,7 @@ LeetCode track Records.
 | [0009-palindrome-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/adityamishra4345/Leet-Code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityamishra4345/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
@@ -140,6 +141,7 @@ LeetCode track Records.
 | [0050-powx-n](https://github.com/adityamishra4345/Leet-Code/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -181,6 +183,7 @@ LeetCode track Records.
 | ------- |
 | [0078-subsets](https://github.com/adityamishra4345/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
