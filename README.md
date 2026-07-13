@@ -73,6 +73,7 @@ LeetCode track Records.
 | [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityamishra4345/Leet-Code/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adityamishra4345/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0779-k-th-symbol-in-grammar](https://github.com/adityamishra4345/Leet-Code/tree/master/0779-k-th-symbol-in-grammar) |
 | [2235-add-two-integers](https://github.com/adityamishra4345/Leet-Code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityamishra4345/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityamishra4345/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +146,7 @@ LeetCode track Records.
 | [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adityamishra4345/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/adityamishra4345/Leet-Code/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/adityamishra4345/Leet-Code/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ LeetCode track Records.
 | [0136-single-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/adityamishra4345/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/adityamishra4345/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/adityamishra4345/Leet-Code/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
